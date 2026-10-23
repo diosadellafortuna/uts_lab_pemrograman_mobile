@@ -1,5 +1,3 @@
-<img width="960" height="600" alt="Screenshot 2026-10-24 010454" src="https://github.com/user-attachments/assets/7291a817-61e3-410c-a10f-870d73a96f11" /># Kuis Flutter
-
 ## Identitas Mahasiswa
 - Nama : Dewi Fortuna Halim
 - NIM  : 241401066
