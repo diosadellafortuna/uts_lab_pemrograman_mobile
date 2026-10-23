@@ -27,7 +27,7 @@
 
 **Screenshot:** (tambahkan screenshot tiap halaman di folder `screenshots/`)
 
-**Mockup/Prototype:** (tempel link Figma di sini)
+**Mockup/Prototype:** https://www.figma.com/design/kOVNQKr6D97xllaIcdyAcB/Untitled?node-id=0-1&t=l6gn8HqzAynx7TgG-1
 
 ## Struktur Proyek
 ```
