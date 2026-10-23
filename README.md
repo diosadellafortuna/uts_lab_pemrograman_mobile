@@ -4,7 +4,7 @@
 - Lab  : Pemrograman Mobile (PM 5)
 
 ## Informasi Aplikasi
-**Nama Aplikasi:** Kuis Flutter
+**Nama Aplikasi:** Kuis Kepintaran
 
 **Deskripsi:** Aplikasi kuis pilihan ganda tentang dasar" pengetahuan umum. Pengguna memasukkan nama, menjawab 8 soal, lalu melihat skor akhir dan review jawaban.
 
